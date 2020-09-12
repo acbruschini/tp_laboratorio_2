@@ -1,0 +1,12 @@
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\TP_01_Entidades\TP_01_Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\TP_01_Entidades\TP_01_Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\TP_01_Entidades\TP_01_Entidades\bin\Debug\Entidades.dll
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\TP_01_Entidades\TP_01_Entidades\bin\Debug\Entidades.pdb
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\TP_01_Entidades\TP_01_Entidades\obj\Debug\Entidades.dll
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\TP_01_Entidades\TP_01_Entidades\obj\Debug\Entidades.pdb
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\TP_01\TP_01_Entidades\bin\Debug\Entidades.dll
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\TP_01\TP_01_Entidades\bin\Debug\Entidades.pdb
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\TP_01\TP_01_Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\TP_01\TP_01_Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\TP_01\TP_01_Entidades\obj\Debug\Entidades.dll
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\TP_01\TP_01_Entidades\obj\Debug\Entidades.pdb
