@@ -64,7 +64,10 @@ namespace Entidades
             {
                 return retorno;
             }
-            return retorno;
+            else
+            {
+                return retorno;
+            }
         }
         /// <summary>
         /// Valida que el [string] sea un numero binario

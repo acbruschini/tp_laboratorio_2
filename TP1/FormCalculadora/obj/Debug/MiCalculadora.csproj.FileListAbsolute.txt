@@ -24,3 +24,16 @@ D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\TP_01\FormCalculadora\bin\D
 D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\TP_01\FormCalculadora\bin\Debug\Entidades.dll
 D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\TP_01\FormCalculadora\bin\Debug\Entidades.pdb
 D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\TP_01\FormCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\tp_laboratorio_2\TP1\FormCalculadora\bin\Debug\FormCalculadora.exe.config
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\tp_laboratorio_2\TP1\FormCalculadora\bin\Debug\FormCalculadora.exe
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\tp_laboratorio_2\TP1\FormCalculadora\bin\Debug\FormCalculadora.pdb
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\tp_laboratorio_2\TP1\FormCalculadora\bin\Debug\Entidades.dll
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\tp_laboratorio_2\TP1\FormCalculadora\bin\Debug\Entidades.pdb
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\tp_laboratorio_2\TP1\FormCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\tp_laboratorio_2\TP1\FormCalculadora\obj\Debug\FormCalculadora.FormCalculadora.resources
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\tp_laboratorio_2\TP1\FormCalculadora\obj\Debug\FormCalculadora.Properties.Resources.resources
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\tp_laboratorio_2\TP1\FormCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\tp_laboratorio_2\TP1\FormCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\tp_laboratorio_2\TP1\FormCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\tp_laboratorio_2\TP1\FormCalculadora\obj\Debug\FormCalculadora.exe
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\tp_laboratorio_2\TP1\FormCalculadora\obj\Debug\FormCalculadora.pdb
