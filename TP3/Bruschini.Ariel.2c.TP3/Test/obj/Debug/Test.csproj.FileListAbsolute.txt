@@ -1,0 +1,16 @@
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\Test\bin\Debug\Test.exe.config
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\Test\bin\Debug\Test.exe
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\Test\bin\Debug\Test.pdb
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\Test\bin\Debug\Clases Abstractas.dll
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\Test\bin\Debug\Clases Abstractas.pdb
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\Test\obj\Debug\Test.csprojAssemblyReference.cache
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\Test\obj\Debug\Test.csproj.CopyComplete
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\Test\obj\Debug\Test.exe
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\Test\obj\Debug\Test.pdb
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\Test\bin\Debug\Archivos.dll
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\Test\bin\Debug\Clases Instanciables.dll
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\Test\bin\Debug\Excepciones.dll
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\Test\bin\Debug\Archivos.pdb
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\Test\bin\Debug\Clases Instanciables.pdb
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\Test\bin\Debug\Excepciones.pdb

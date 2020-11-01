@@ -1,0 +1,13 @@
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.dll
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.pdb
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\Clases Instanciables\bin\Debug\Archivos.dll
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\Clases Instanciables\bin\Debug\Clases Abstractas.dll
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\Clases Instanciables\bin\Debug\Excepciones.dll
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\Clases Instanciables\bin\Debug\Archivos.pdb
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\Clases Instanciables\bin\Debug\Clases Abstractas.pdb
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\Clases Instanciables\bin\Debug\Excepciones.pdb
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csprojAssemblyReference.cache
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CoreCompileInputs.cache
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CopyComplete
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.dll
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.pdb

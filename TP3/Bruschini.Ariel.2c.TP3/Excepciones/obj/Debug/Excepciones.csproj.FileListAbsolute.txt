@@ -1,0 +1,6 @@
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\Excepciones\bin\Debug\Excepciones.dll
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\Excepciones\bin\Debug\Excepciones.pdb
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\Excepciones\obj\Debug\Excepciones.dll
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\Excepciones\obj\Debug\Excepciones.pdb

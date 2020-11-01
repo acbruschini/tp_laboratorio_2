@@ -1,0 +1,25 @@
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\TestsUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\TestsUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\TestsUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\TestsUnitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\TestsUnitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\TestsUnitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\TestsUnitarios\bin\Debug\TestsUnitarios.dll
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\TestsUnitarios\bin\Debug\TestsUnitarios.pdb
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\TestsUnitarios\bin\Debug\Archivos.dll
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\TestsUnitarios\bin\Debug\Clases Abstractas.dll
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\TestsUnitarios\bin\Debug\Clases Instanciables.dll
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\TestsUnitarios\bin\Debug\Excepciones.dll
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\TestsUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\TestsUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\TestsUnitarios\bin\Debug\Archivos.pdb
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\TestsUnitarios\bin\Debug\Clases Abstractas.pdb
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\TestsUnitarios\bin\Debug\Clases Instanciables.pdb
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\TestsUnitarios\bin\Debug\Excepciones.pdb
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\TestsUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\TestsUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\TestsUnitarios\obj\Debug\TestsUnitarios.csprojAssemblyReference.cache
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\TestsUnitarios\obj\Debug\TestsUnitarios.csproj.CoreCompileInputs.cache
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\TestsUnitarios\obj\Debug\TestsUnitarios.csproj.CopyComplete
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\TestsUnitarios\obj\Debug\TestsUnitarios.dll
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\Bruschini.Ariel.2c.TP3\TestsUnitarios\obj\Debug\TestsUnitarios.pdb
