@@ -1,0 +1,11 @@
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\TP4\Archivos\bin\Debug\Archivos.dll
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\TP4\Archivos\bin\Debug\Archivos.pdb
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\TP4\Archivos\bin\Debug\TP4.dll
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\TP4\Archivos\bin\Debug\TpExceptions.dll
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\TP4\Archivos\bin\Debug\TP4.pdb
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\TP4\Archivos\bin\Debug\TpExceptions.pdb
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\TP4\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\TP4\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\TP4\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\TP4\Archivos\obj\Debug\Archivos.dll
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\TP4\Archivos\obj\Debug\Archivos.pdb

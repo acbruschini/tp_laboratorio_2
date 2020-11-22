@@ -1,0 +1,6 @@
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\TP4\TpExceptions\bin\Debug\TpExceptions.dll
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\TP4\TpExceptions\bin\Debug\TpExceptions.pdb
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\TP4\TpExceptions\obj\Debug\TpExceptions.csproj.CoreCompileInputs.cache
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\TP4\TpExceptions\obj\Debug\TpExceptions.dll
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\TP4\TpExceptions\obj\Debug\TpExceptions.pdb
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\TP4\TpExceptions\obj\Debug\TpExceptions.csprojAssemblyReference.cache

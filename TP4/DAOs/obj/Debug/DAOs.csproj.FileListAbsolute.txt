@@ -1,0 +1,11 @@
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\TP4\DAOs\bin\Debug\DAOs.dll
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\TP4\DAOs\bin\Debug\DAOs.pdb
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\TP4\DAOs\bin\Debug\TP4.dll
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\TP4\DAOs\bin\Debug\TpExceptions.dll
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\TP4\DAOs\bin\Debug\TP4.pdb
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\TP4\DAOs\bin\Debug\TpExceptions.pdb
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\TP4\DAOs\obj\Debug\DAOs.csprojAssemblyReference.cache
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\TP4\DAOs\obj\Debug\DAOs.csproj.CoreCompileInputs.cache
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\TP4\DAOs\obj\Debug\DAOs.csproj.CopyComplete
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\TP4\DAOs\obj\Debug\DAOs.dll
+D:\Dropbox\Personal\Programacion\Programacion2_Lab_2\TP4\DAOs\obj\Debug\DAOs.pdb
